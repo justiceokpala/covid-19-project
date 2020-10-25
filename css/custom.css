@@ -1,0 +1,17 @@
+textarea{
+	resize: none;
+	height: 200px !important;
+}
+
+body{
+	background-color: black;
+	
+}
+h1{
+	color:crimson;
+	text-align: center;
+}
+
+.blue{
+	color: darkblue;
+}
